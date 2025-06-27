@@ -1,0 +1,5 @@
+[migrations]
+CONTENTFUL_SPACE_ID = bmbos5ssls9v
+CONTENTFUL_MIGRATIONS_CONTENT_TYPE_ID = contentfulMigrations
+CONTENTFUL_ENVIRONMENT_ID = master
+# CONTENTFUL_MANAGEMENT_TOKEN = CFPAT-********** # Prompted when running 'init' cmd
